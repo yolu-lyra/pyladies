@@ -846,6 +846,9 @@ chapters:
   twitter: PyLadiesOkinawa
 - email: shizuoka@pyladies.com
   name: Shizuoka, Japan
+　location:
+    latitude: 34.9769440
+    longitude: 138.3830560
   website: https://pyladiesshizuoka.github.io/
 - email: oslo@pyladies.com
   name: Oslo, Norway
